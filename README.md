@@ -1,8 +1,8 @@
 # Coffee_machine
-##Procedural Code
+## Procedural Code
 Implementing the game with procedural programming in the file Coffee_Machine.py
 
-##OOP-Version-Code
+## OOP-Version-Code
 Implementing the game by creating four classes (Menu-Menu_item-Coffe_machine-Money_Machine)
 to play the game need to run the main.py in OOP-version folder
 
